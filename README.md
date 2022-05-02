@@ -19,20 +19,20 @@ This repository containds the following contents:
   * naiv bayes
   * random forest classification
   * decision tree classification
-3. **Clustering
+3. **Clustering**
   * K means Clustering
   * Hierarchical Clustering
-4. **Association Rule Learning
+4. **Association Rule Learning**
   * Apriori
   * Eclat
-5. **Reinforcement Learning
+5. **Reinforcement Learning**
   * Upper Confidence Bound (UCB)
   * Thompson Sampling
-6. **Natural Language Processing
-7. **Deep Learning
+6. **Natural Language Processing**
+7. **Deep Learning**
   * Artificial Neural Network (ANN)
   * Convolutional Neural Network (CNN)
-8. **Dimensionality Reduction
+8. **Dimensionality Reduction**
   * Principal Component Analysis (PCA)
   * Linear Discriminant Analysis (LDA)
   * Kernel PCA
